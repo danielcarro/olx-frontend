@@ -1,6 +1,6 @@
 # Clone OLX
 
-Este projeto foi base do no site da OLX.
+This project was based on the OLX website.
 
 Frontend was created with ReactJS + Typescript
 
